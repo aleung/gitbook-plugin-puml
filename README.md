@@ -1,16 +1,20 @@
 # PlantUML in GitBook
 
+> **Note**:
+>
+> This is a fork of the [gitbook-plugin-puml](https://www.npmjs.com/package/gitbook-plugin-puml) to fix issues.
+> The original project was out of maintenance.
+
 UML Diagrams rendering using PlantUML.
 
-[![Build Status](https://travis-ci.org/GitbookIO/plugin-puml.png?branch=master)](https://travis-ci.org/GitbookIO/plugin-puml)
-[![NPM version](https://badge.fury.io/js/gitbook-plugin-puml.svg)](http://badge.fury.io/js/gitbook-plugin-puml)
+[![NPM version](https://badge.fury.io/js/gitbook-plugin-puml-aleung.svg)](http://badge.fury.io/js/gitbook-plugin-puml-aleung)
 
 
 Configure the plugin in your `book.json`:
 
 ```js
 {
-    "plugins": ["puml"]
+    "plugins": ["puml-aleung"]
 }
 ```
 
